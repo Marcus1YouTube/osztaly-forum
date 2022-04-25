@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4.d Fórum - Fiók készítése</title>
+    <link rel="stylesheet" href="./index.css">
+    <link
+    href="https://fonts.googleapis.com/css2?family=Material+Icons+Outlined"
+    rel="stylesheet"
+    />
+    <script src="./signup.bundle.js" defer></script>
+</head>
+<body>
+    <nav class="nav-bar">
+        <a href="./" class="title"
+          >Győri Arany János Általános Iskola - 4.d Fórum</a
+        >
+        <!-- bejelentkezés gomb -->
+        <button class="login-button"><a href="./signup.html">Bejelentkezés vagy fiókkészítés</a></button>
+        <div class="user-container hidden">
+            <p class="username">Username</p>
+            <a class="logout">Kijelentkezés</a>
+        </div>
+    </nav>
+    <main>
+        <h1>Fiók készítése</h1>
+        <form class="signup-form">
+            <label for="email">E-mail cím</label>
+            <input type="email" name="email" id="email" required>
+            <label for="password">Jelszó</label>
+            <input type="password" name="password" id="password" required>
+            <button class="submit-button" id="submit-button">Fiók készítése</button>
+        </form>
+        <br>
+        <!-- beküldés -->
+        
+        <hr>
+        <p>Már van fiókod? <a href="./login.html">Bejelentkezés</a></p>
+    </main>
+</body>
+</html>

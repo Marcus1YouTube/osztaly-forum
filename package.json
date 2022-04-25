@@ -1,0 +1,27 @@
+{
+  "name": "osztaly-forum",
+  "version": "1.0.0",
+  "description": "az osztályunknak egy fórum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcus1YouTube/osztaly-forum.git"
+  },
+  "author": "Marci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcus1YouTube/osztaly-forum/issues"
+  },
+  "homepage": "https://github.com/Marcus1YouTube/osztaly-forum#readme",
+  "dependencies": {
+    "firebase": "^9.6.11",
+    "md5": "^2.3.0",
+    "randomstring": "^1.2.2",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}

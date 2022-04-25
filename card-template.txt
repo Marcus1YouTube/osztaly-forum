@@ -1,0 +1,28 @@
+<div class="post">
+    <h2 class="post-title" align="center">random poszt</h2>
+    <div class="post-header">
+        <p class="username">Pondro Kodor Popsi</p>
+        <p class="post-date">2019.03.12</p>
+    </div>
+    <hr />
+    <div class="post-body">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex doloremque
+        facilis impedit magni autem aspernatur dolores voluptates error modi.
+        Aut? Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Deserunt hic distinctio incidunt velit minima, eligendi architecto
+        nostrum. Sint ullam ad atque rerum ex sapiente commodi laudantium quis
+        expedita ipsam magni, architecto ea maxime, aperiam sunt dolorum in
+        modi corporis iusto. Voluptatibus nam architecto eos reprehenderit
+        fuga illo vel placeat quisquam explicabo commodi quo id eius, dolores
+        in officiis provident reiciendis non esse blanditiis veritatis est
+        facilis. Repellat assumenda natus earum eos quod. Dolor reprehenderit
+        a temporibus hic id et cum!
+    </div>
+    <hr />
+    <div class="post-footer">
+        <button class="like-button">
+        <span class="material-icons-outlined"> thumb_up </span>
+        <span class="like-count">0</span>
+        </button>
+    </div>
+</div>
